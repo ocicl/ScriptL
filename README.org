@@ -1,0 +1,10 @@
+* ScriptL
+
+Shell scripting made Lisp-like!  Or, live-coding remote function calls for the shell.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/ScriptL.git   |
+| commit  | bef41db  |
+| systems | ScriptL |
+|---------+-------------------------------------------|
+
