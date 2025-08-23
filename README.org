@@ -4,6 +4,6 @@ Shell scripting made Lisp-like!  Or, live-coding remote function calls for the s
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/rpav/ScriptL.git |
-| commit  | bef41db                                 |
+| commit  | 2a36c91                                 |
 | systems | scriptl scriptl-util                    |
 |---------+-----------------------------------------|
